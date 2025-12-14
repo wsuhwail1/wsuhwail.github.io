@@ -79,25 +79,7 @@ I have earned the following certifications that validate my knowledge and expert
 ### 4. **Cybersecurity Automation Scripts**
    - **Languages Used**: Python, Bash
    - **Description**: Created a set of Python and Bash scripts to automate routine cybersecurity tasks such as scanning for open ports, checking system logs for suspicious activity, and patch management.
-   - **GitHub Repository**: [Link to GitHub repo]
-
----
-
-## Blogs & Articles
-
-I enjoy writing about cybersecurity topics. Below are some of my recent articles and blogs:
-
-- **"Understanding and Mitigating Ransomware Attacks"**  
-  A deep dive into the rise of ransomware, how it works, and best practices for prevention.  
-  [Read here](link)
-
-- **"Why Zero Trust is the Future of Network Security"**  
-  An exploration of the Zero Trust security model and its growing importance in modern cybersecurity.  
-  [Read here](link)
-
-- **"How to Build a Penetration Testing Lab"**  
-  A step-by-step guide to setting up your own penetration testing environment using virtual machines and tools like Kali Linux.  
-  [Read here](link)
+   - **GitHub Repository**: 
 
 ---
 
