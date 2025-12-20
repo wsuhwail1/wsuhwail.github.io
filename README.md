@@ -49,7 +49,7 @@ Here are some of the key skills and tools that I have mastered over my career in
 
 I have earned the following certifications that validate my knowledge and expertise in cybersecurity:
 
-- **Certified Information Systems Security Professional (CISSP)**
+- **Google: Foundations of Cybersecurity**
 - **Certified Ethical Hacker (CEH)**
 - **Certified Cloud Security Professional (CCSP)**
 - **CompTIA Security+**
