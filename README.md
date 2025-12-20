@@ -25,7 +25,8 @@ I'm currently a salesperson at Porsche Dallas. My goals are to start a career in
 
 - **Location**: Dallas, Texas
 - **LinkedIn**: [Link to your LinkedIn]
-- **GitHub**: [Link to your GitHub]
+- **GitHub**: wsuhwail1.github.io
+
 
 ---
 
@@ -60,7 +61,7 @@ I have earned the following certifications that validate my knowledge and expert
 
 ### 1. **Conducting a Security Audit**
    - **Tools Used**: Coursera, Google Docs
-   - **Description**: Conducted a comprehensive internal security audit of a small but rapidly gowing company’s network to identify critical security gaps, improve the organizations security posture, and asses compliance. Provided a detailed report with the scope and goals of the audit, as well as a risk assesment.
+   - **Description**: Conducted a comprehensive internal security audit of a small but rapidly growing company’s network to identify critical security gaps, improve the organizations security posture, and asses compliance. Provided a detailed report with the scope and goals of the audit, as well as a risk assesment.
    - **Link to Report**: https://docs.google.com/document/d/1LTxeUBrsk1UeXjryX3rOvemafd7-mzabiZPWQs6-Vxs/edit?tab=t.0
 
 ### 2. **Web Application Penetration Testing**
